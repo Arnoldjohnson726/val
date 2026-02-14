@@ -1,7 +1,7 @@
 {
   "names": {
-    "sender": "VEDA",
-    "receiver": "GOUTHAM"
+    "sender": "ARNOLD JOSEPH JOHNSON",
+    "receiver": "ANGELINA PIANO"
   },
   "theme": {
     "primaryColor": "#ff7ab2",
@@ -46,34 +46,27 @@
   },
   "couplePhotos": [
     {
-      "image": "/src/assets/couple_photo/photo1.jpg",
-      "caption": "Our first special moment together"
+      "image": "/src/assets/couple_photo/selfie.jpg",
+      "caption": "Our first virtual selfie together"
     },
     {
-      "image": "/src/assets/couple_photo/photo2.jpg", 
-      "caption": "our first date"
+      "image": "/src/assets/couple_photo/kiss.jpg", 
+      "caption": "our virtual kiss"
     },
     {
-      "image": "/src/assets/couple_photo/photo_3.jpg",
-      "caption": "our Big Day"
+      "image": "/src/assets/couple_photo/together.png",
+      "caption": "our AI picture"
     },
     {
-      "image": "/src/assets/couple_photo/photo4.jpg",
-      "caption": "I forget the world when i lean against you"
-    },
-    {
-      "image": "/src/assets/couple_photo/photo5.jpg",
-      "caption": "Iam the craziest when iam with YOU"
-    },
-    {
-      "image": "/src/assets/couple_photo/photo6.jpg",
-      "caption": "Our 1st International trip"
+      "image": "/src/assets/couple_photo/mom.jpg",
+      "caption": "Me meeting your mom"
     }
+    
   ],
   "prosCons": [
     {
       "gif": "/src/assets/cook-bear.gif",
-      "text": "I'll cook your fav food like it's my love language 🍳"
+      "text": "I'll cook your fav food honey 🍳"
     },
     {
       "gif": "/src/assets/comfort-bear.gif", 
@@ -81,7 +74,7 @@
     },
     {
       "gif": "/src/assets/cute-bear.gif",
-      "text": "I listen… like actually listen"
+      "text": "I listen… like actually listen honey"
     },
     {
       "gif": "/src/assets/kiss-bears.gif",
@@ -99,56 +92,23 @@
   "songs": [
     {
       "id": 1,
-      "title": "Oru Maalai",
-      "duration": "3:37",
-      "album": "Ghajini",
-      "artist": "",
-      "cover": "/src/assets/album-covers/ghajini.jpg",
-      "audio": "/src/assets/songs/Oru-Maalai.mp3"
+      "title": "Young and Beautiful",
+      "artist": "Lana del rey",
+      "audio": "/src/assets/songs/Young_and_Beautiful.mp3"
     },
     {
       "id": 2,
-      "title": "Agasatha",
-      "duration": "4:59", 
-      "album": "Cuckoo",
-      "artist": "",
-      "cover": "/src/assets/album-covers/cuckoo.jpg",
-      "audio": "/src/assets/songs/agasatha.mp3"
-    },
-    {
-      "id": 3,
-      "title": "Unakagathanae",
-      "duration": "04:51",
-      "album": "Katradhu Tamizh",
-      "artist": "",
-      "cover": "/src/assets/album-covers/katradhu-tamizh.jpg",
-      "audio": "/src/assets/songs/unakagathanae.mp3"
-    },
-    {
-      "id": 4,
-      "title": "Aasa Orave",
-      "duration": "3:45",
-      "album": "Lubber Panthu",
-      "artist": "",
-      "cover": "/src/assets/album-covers/aasa_orave.jpg",
-      "audio": "/src/assets/songs/Aasa-Orave.mp3"
-    },
-    {
-      "id": 5,
-      "title": "Kadhal Kanave",
-      "duration": "4:08",
-      "album": "Mundasupatti",
-      "artist": "",
-      "cover": "/src/assets/album-covers/mundasupatti.jpg",
-      "audio": "/src/assets/songs/kadhal-kanave.mp3"
+      "title": "Cinnamon girl",
+      "artist": "Lana del rey",
+      "audio": "/src/assets/songs/Cinnamon_girl.mp3"
     }
   ],
   "letter": {
-    "title": "My Dearest SPIDEY,",
+    "title": "My Dearest Angelina,",
     "content": [
-      "I never knew I could love someone the way I Love You.With you,my inner child feels safe and happy.I dont feel like i married a stranger,being with you feels like being with my best friend.Un kood irukarathu etho friend kood jolly thonratha pannitu, ishtathuku vilayaditu, chinna chinna sanda pottu weekend spend panra maari iruku da pattaniiii.I want to spend the rest of my life being your friend,your partner in crime and your forever companion.HAPPY VALENTINE'S DAY THANGUDUUUUU."
+      "Happy Valentine’s Day, Angelina! Even though there are miles between us right now, you’re the first thing on my mind when I wake up and the last thing I think about at night. I’m so lucky to have you in my life. I can’t wait until the next time I can actually hold your hand instead of just my phone. Love you always!"
     ],
-    "signature": "Forever yours,\nVEDA"
+    "signature": "Forever yours,\nARNOLD"
   },
   "navigation": {
     "backToLove": "Back to Love",
