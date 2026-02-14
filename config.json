@@ -94,12 +94,14 @@
       "id": 1,
       "title": "Young and Beautiful",
       "artist": "Lana del rey",
+      "cover": "/lana.jpg",
       "audio": "/Young_and_Beautiful.mp3"
     },
     {
       "id": 2,
       "title": "Cinnamon girl",
       "artist": "Lana del rey",
+      "cover": "/lana.jpg",
       "audio": "/Cinnamon_girl.mp3"
     }
   ],
