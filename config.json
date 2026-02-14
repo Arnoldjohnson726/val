@@ -50,15 +50,15 @@
       "caption": "Our first virtual selfie together"
     },
     {
-      "image": "/src/assets/couple_photo/kiss.jpg", 
+      "image": "/kiss.jpg", 
       "caption": "our virtual kiss"
     },
     {
-      "image": "/src/assets/couple_photo/together.png",
+      "image": "/together.png",
       "caption": "our AI picture"
     },
     {
-      "image": "/src/assets/couple_photo/mom.jpg",
+      "image": "/mom.png",
       "caption": "Me meeting your mom"
     }
     
