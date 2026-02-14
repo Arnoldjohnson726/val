@@ -46,7 +46,7 @@
   },
   "couplePhotos": [
     {
-      "image": "/src/assets/couple_photo/selfie.jpg",
+      "image": "/selfie.jpg",
       "caption": "Our first virtual selfie together"
     },
     {
