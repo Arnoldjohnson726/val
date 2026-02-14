@@ -25,24 +25,24 @@
     "prosConsSubtitle": "Nothing!!!!"
   },
   "media": {
-    "mainBearGif": "/src/assets/cute-bear.gif",
-    "musicBearGif": "/src/assets/music-bear.gif",
-    "comfortBearGif": "/src/assets/comfort-bear.gif",
-    "kissBearGif": "/src/assets/kiss-bears.gif",
-    "photoBearGif": "/src/assets/photo-bear.gif",
-    "loveYouBearGif": "/src/assets/love-you-bear.gif",
-    "childGif": "/src/assets/child.gif",
-    "roseBearGif": "/src/assets/rose-bear.gif",
-    "cookBearGif": "/src/assets/cook-bear.gif",
-    "kissSingleBearGif": "/src/assets/kiss-bear.gif",
-    "leftButton": "/src/assets/left-button.png",
-    "rightButton": "/src/assets/right-button.png",
+    "mainBearGif": "/cute-bear.gif",
+    "musicBearGif": "/music-bear.gif",
+    "comfortBearGif": "/comfort-bear.gif",
+    "kissBearGif": "/kiss-bears.gif",
+    "photoBearGif": "/photo-bear.gif",
+    "loveYouBearGif": "/love-you-bear.gif",
+    "childGif": "/child.gif",
+    "roseBearGif": "/rose-bear.gif",
+    "cookBearGif": "/cook-bear.gif",
+    "kissSingleBearGif": "/kiss-bear.gif",
+    "leftButton": "/left-button.png",
+    "rightButton": "/right-button.png",
     "envelopeSeal": "❤️"
   },
   "gifts": {
-    "gift1": "/src/assets/gift/gift1.jpg",
-    "gift2": "/src/assets/gift/gift2.jpg", 
-    "gift3": "/src/assets/gift/gift3.jpg"
+    "gift1": "/gift1.jpg",
+    "gift2": "/gift2.jpg", 
+    "gift3": "/gift3.jpg"
   },
   "couplePhotos": [
     {
@@ -65,27 +65,27 @@
   ],
   "prosCons": [
     {
-      "gif": "/src/assets/cook-bear.gif",
-      "text": "I'll cook your fav food honey 🍳"
+      "gif": "/cook-bear.gif",
+      "text": "I'll cook your fav food sushi honey "
     },
     {
-      "gif": "/src/assets/comfort-bear.gif", 
+      "gif": "/comfort-bear.gif", 
       "text": "Unlimited comfort and care"
     },
     {
-      "gif": "/src/assets/cute-bear.gif",
+      "gif": "/cute-bear.gif",
       "text": "I listen… like actually listen honey"
     },
     {
-      "gif": "/src/assets/kiss-bears.gif",
+      "gif": "/kiss-bears.gif",
       "text": "Unlimited hugs & kisses\n(non-negotiable 😏)"
     },
     {
-      "gif": "/src/assets/photo-bear.gif",
+      "gif": "/photo-bear.gif",
       "text": "Your personal photographer for all the cute moments 📸"
     },
     {
-      "gif": "/src/assets/music-bear.gif",
+      "gif": "/music-bear.gif",
       "text": "Live singing performances… just for you 🎶😉"
     }
   ],
@@ -94,13 +94,13 @@
       "id": 1,
       "title": "Young and Beautiful",
       "artist": "Lana del rey",
-      "audio": "/src/assets/songs/Young_and_Beautiful.mp3"
+      "audio": "/Young_and_Beautiful.mp3"
     },
     {
       "id": 2,
       "title": "Cinnamon girl",
       "artist": "Lana del rey",
-      "audio": "/src/assets/songs/Cinnamon_girl.mp3"
+      "audio": "/Cinnamon_girl.mp3"
     }
   ],
   "letter": {
